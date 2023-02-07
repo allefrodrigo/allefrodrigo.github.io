@@ -7,9 +7,9 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Allef Schmidt',
-  role: 'A Front End Developer',
+  role: 'Um desenvolvedor Frontend ',
   description:
-  'Sou um Desenvolvedor Frontend apaixonado com foco em desenvolvimento web e APIs. Familiaridade com JavaScript e Python, frameworks e ferramentas (React, Redux, FastAPI, Flask, Express, Axios, Vue.js, Node.js, Webpack e Babel.js) e DevOps/implantação na nuvem (principalmente no Heroku). Também tenho 3 anos de experiência em arquitetura, desenvolvimento, implantação e manutenção de aplicativos móveis usando React Native (iOS e Android).',
+  'Meu foco é desenvolvimento web e APIs. Tenho familiaridade com JavaScript, Typescript e Python, sempre utilizando frameworks e ferramentas (React, Redux, FastAPI, Flask, Express, Axios, Vue.js, Node.js, Webpack e Babel.js), além de DevOps/implantação na nuvem (principalmente no Heroku). Também tenho 3 anos de experiência em arquitetura, desenvolvimento, implantação e manutenção de aplicativos móveis usando React Native (iOS e Android).',
   social: {
     linkedin: 'https://www.linkedin.com/in/schmidt-maker/',
     github: 'https://github.com/allefrodrigo/',
@@ -26,7 +26,7 @@ const projects = [
       'Site institucional para uma empresa de aulas de tênis, com foco sistema ágil de comunicação via whatsapp, email e telefone',
     stack: ['TypeScript', 'React', 'Material Design'],
     // sourceCode: 'https://github.com',
-    // livePreview: 'https://github.com',
+     livePreview: 'http://www.tenis4you.pt/',
   },
   {
     name: 'Calculadora de notas para o ENEM',
