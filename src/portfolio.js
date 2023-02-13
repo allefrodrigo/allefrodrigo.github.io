@@ -34,7 +34,7 @@ const projects = [
       'Através do peso divulgado pelas instituições de ensino superior, o usuário consegue saber sua nota antes do resultado oficial',
       stack: ['TypeScript', 'React', 'Material Design'],
     //   sourceCode: 'https://github.com',
-    // livePreview: 'https://github.com',
+     livePreview: 'https://calculadora-enem.vercel.app/',
   },
   {
     name: 'Whatsapp Bot',

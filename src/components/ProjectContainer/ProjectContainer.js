@@ -1,5 +1,5 @@
 import uniqid from 'uniqid'
-import LaunchIcon from '@material-ui/icons/Launch'
+ import LaunchIcon from '@material-ui/icons/Launch'
 import './ProjectContainer.css'
 
 const ProjectContainer = ({ project }) => (
